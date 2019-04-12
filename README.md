@@ -1,6 +1,3 @@
-# stark
-
-> Front End module from Stark project 
 
 ## Build Setup
 
