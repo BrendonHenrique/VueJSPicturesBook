@@ -1,3 +1,4 @@
+An interative webpage that consums a API , getting images from server , to show in the folder , gives you alot of different interations on the page. This project is used to study Rest Api.
 
 ## Build Setup
 
