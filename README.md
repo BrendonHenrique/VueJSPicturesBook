@@ -1,4 +1,6 @@
-An interative webpage that consums a API , getting images from server and show white interations. This project was created using: 
+An interative webpage that consums a API , getting images from server and show, and enables interactions with image cards. 
+
+This project was created using: 
 - NodeJs 
 - Express
 - Vue JS 
